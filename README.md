@@ -31,15 +31,15 @@ Using Webstorm with Git and Github Instructions.
    - they can be merged through version control git
 
 Glossary
-  Branch - 
-  Clone - 
-  Commit - 
-  Fetch - 
-  GIT - 
-  Github - 
-  Merge - 
-  Merge conflict -
-  Push - 
-  Pull - 
-  Remote - 
-  Repository - 
+  Branch - A version of a project that operates parallel to the master brancnh which allows for isolated work without affecting the master branch's code
+  Clone - A local copy of a repo from a remote source which is usually github
+  Commit - Saved changes to a project with a descriptive message usually ready to be pushed
+  Fetch - downloading data from a repo without merging
+  GIT - version control system used to track source code changes
+  Github - cloud based hosting service for git repos with collaboration and sharing
+  Merge - combining changes among branches
+  Merge conflict - Whenn merges can't be done due to incompatible changes
+  Push - sending commit history with data to remote repo
+  Pull - updating local branch with remote repo changes
+  Remote - version of a repo hosted on a server like github
+  Repository - project folder managed by git that contains all files, history and all branches
